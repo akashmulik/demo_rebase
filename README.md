@@ -1,3 +1,3 @@
-#THIS IS REBASE DEMO
+### THIS IS REBASE DEMO
 
-This repo is for learning purpose
+Deleting this line and altering
