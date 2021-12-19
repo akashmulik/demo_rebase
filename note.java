@@ -1,1 +1,6 @@
-Note java file
+public class Note {
+	
+	public static void main(String []args) {
+		//do something
+	}
+}
